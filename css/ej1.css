@@ -1,0 +1,54 @@
+body {
+	background-color: #F6F4F0;
+	font-family: sans-serif;
+}
+
+h2 {
+	color: green;
+	text-align: center;
+}
+
+#pacientes {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+th {
+	background-color: green;
+	color: white;
+	font-weight: normal;
+	text-align: left;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table, th, to {
+	border: 1px solid green;
+}
+td, th {
+	padding: 0.3em;
+}
+
+tr.alterno {
+	background-color: #dfd;
+}
+
+tr{
+	background-color: white;
+}
+
+#pacientes a:link, #pacientes a:visited {
+	text-decoration: none;
+	color: green;
+}
+
+tpocientes a:hover, lpacientes a:active {
+	font-weight: bold;
+}
+
+Ipocientes .enlace {
+	text-align: center;
+}
+

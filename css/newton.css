@@ -1,0 +1,19 @@
+body {
+	background-color : lightblue;
+	font-family : sans-serif;
+	color : darkblue;
+}
+h1{
+	
+	text-align : center;
+}
+p{
+	position: relative;
+	left:30%;
+	display:block;
+	width : auto;
+}
+ul.navbar{
+	
+}
+a{color:red;}
